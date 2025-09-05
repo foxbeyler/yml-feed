@@ -1,0 +1,504 @@
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска мотодисков"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 101
+  description: "Обновленное покрытие мотодисков, стойкое к износу"
+  shortDescription: "Покраска мотодисков"
+  price: 6000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-moto-diskov-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-moto-diskov/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска автомобильных дисков"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 102
+  description: "Порошковая покраска дисков, диски снова будут как новые!"
+  shortDescription: "Покраска дисков авто"
+  price: 8000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-diskov-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-diskov/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска поводков дворников"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 103
+  description: "Порошковая покраска дворников за 24 часа!"
+  shortDescription: "Покраска дворников"
+  price: 4000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-povodkov-dvornikov-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-povodkov-dvornikov/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска суппортов"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 104
+  description: "Яркая порошковая покраска суппортов с защитой"
+  shortDescription: "Покраска суппортов"
+  price: 6000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-supportov-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-supportov/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска фаркопа"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 105
+  description: "Долговечная защита фаркопа от коррозии и сколов"
+  shortDescription: "Покраска фаркопа"
+  price: 7000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-farkopa-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-farkopa/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска полотенцесушителя"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 106
+  description: "Декоративная и влагостойкая покраска сушителя"
+  shortDescription: "Покраска сушителя"
+  price: 4000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-polotencesushitelya-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-polotencesushitelya/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска алюминия"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 107
+  description: "Ровное порошковое покрытие деталей из алюминия"
+  shortDescription: "Покраска алюминия"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-alyuminiya-600x350.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-alyuminiya/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска нержавейки"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 108
+  description: "Прочное декоративное покрытие изделий из нержавеющей стали"
+  shortDescription: "Покраска нержавейки"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-nerzhaveyki-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-nerzhavejki/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска мебели"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 109
+  description: "Обновление и защита металлической мебели порошком"
+  shortDescription: "Покраска мебели"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-mebeli-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-mebeli/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска велосипеда"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 110
+  description: "Яркое и стойкое покрытие велосипеда от сколов"
+  shortDescription: "Покраска велосипеда"
+  price: 7000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-velosipeda-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-velosipeda/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска изделий из металла"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 111
+  description: "Универсальная порошковая покраска металлических изделий"
+  shortDescription: "Покраска металла"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-izdeliy-iz-metalla-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-izdelij-iz-metalla/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска решеток"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 112
+  description: "Декоративная защита металлических решеток порошком"
+  shortDescription: "Покраска решеток"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-reshetok-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-reshetok/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска дверей"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 113
+  description: "Прочная и долговечная покраска металлических дверей"
+  shortDescription: "Покраска дверей"
+  price: 12000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-dverey-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-dverej/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска сеток"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 114
+  description: "Ровное порошковое покрытие для металлических сеток"
+  shortDescription: "Покраска сеток"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-setok-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-setok/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска батарей"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 115
+  description: "Термостойкая порошковая покраска радиаторов и батарей"
+  shortDescription: "Покраска батарей"
+  price: 4000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-batarey-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-batarej/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска столбов"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 116
+  description: "Долговечная защита металлических столбов от ржавчины"
+  shortDescription: "Покраска столбов"
+  price: 120
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-stolbov-600x401.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-stolbov/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска стеллажей"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 117
+  description: "Стойкое порошковое покрытие промышленных стеллажей"
+  shortDescription: "Покраска стеллажей"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-stellazhey-600x417.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-stellazhej/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска профиля"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 118
+  description: "Декоративная порошковая покраска алюминиевого профиля"
+  shortDescription: "Покраска профиля"
+  price: 120
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-profilya-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-profilya/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска труб"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 119
+  description: "Защита труб от коррозии прочным порошковым слоем"
+  shortDescription: "Покраска труб"
+  price: 120
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-trub-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-trub/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска оцинкованных листов"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 120
+  description: "Прочное порошковое покрытие оцинкованных металлических листов"
+  shortDescription: "Покраска листов"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-ocinkovannyh-listov-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-ocinkovannyh-listov/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска забора"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 121
+  description: "Защитная и декоративная покраска металлических заборов"
+  shortDescription: "Покраска забора"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-zabora-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-zabora/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска оград и ограждений"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 122
+  description: "Надежное порошковое покрытие оград и металлических ограждений"
+  shortDescription: "Покраска оград"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-ograd-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-ograd/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска шкафов"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 123
+  description: "Обновление и защита металлических шкафов порошком"
+  shortDescription: "Покраска шкафов"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-shkafov-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-shkafov/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска фасадных панелей"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 124
+  description: "Стойкое покрытие фасадных панелей от выгорания"
+  shortDescription: "Покраска панелей"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-fasadnyh-paneley-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-fasadnyh-panelej/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска мотоцикла"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 125
+  description: "Полное обновление мотоцикла стойким порошковым слоем"
+  shortDescription: "Покраска мотоцикла"
+  price: 10000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-motocikla-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-motocikla/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска профнастила"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 126
+  description: "Устойчивая покраска профнастила для защиты от ржавчины"
+  shortDescription: "Покраска профнастила"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-profnastila-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-profnastila/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска металлочерепицы"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 127
+  description: "Долговечная порошковая покраска металлочерепицы"
+  shortDescription: "Покраска черепицы"
+  price: 600
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-metallocherepicy-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-metallocherepicy/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска коллектора"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 128
+  description: "Жаростойкое порошковое покрытие автомобильных коллекторов"
+  shortDescription: "Покраска коллекторов"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-kollektora-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-kollektora/"
+-
+  category: "Порошковая покраска"
+  categoryId: 1
+  name: "Порошковая покраска тренажеров"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 129
+  description: "Износостойкая покраска металлических спортивных тренажеров"
+  shortDescription: "Покраска тренажеров"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/poroshkovaya-pokraska-trenazherov-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/poroshkovaya-pokraska-trenazherov/"
+-
+  category: "Покраска пластика"
+  categoryId: 2
+  name: "Покраска кондиционера"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 201
+  description: "Стойкое покрытие кондиционера от коррозии и сколов"
+  shortDescription: "Покраска кондиционеров"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-kondicionera-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-kondicionera/"
+-
+  category: "Покраска пластика"
+  categoryId: 2
+  name: "Покраска розеток"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 202
+  description: "Аккуратная покраска розеток в цвет интерьера"
+  shortDescription: "Покраска розеток"
+  price: 300
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-rozetok-600x437.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-rozetok/"
+-
+  category: "Покраска пластика"
+  categoryId: 2
+  name: "Покраска кнопки инсталляции унитаза"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 203
+  description: "Прочное покрытие кнопки инсталляции унитаза"
+  shortDescription: "Покраска кнопки инсталляции унитаза"
+  price: 4000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-knopki-installyacii-unitaza-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-knopki-installyaczii-unitaza/"
+-
+  category: "Покраска пластика"
+  categoryId: 2
+  name: "Покраска видеокамер"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 204
+  description: "Покраска видеокамер для защиты и незаметного вида"
+  shortDescription: "Покраска видеокамер"
+  price: 1000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-videokamer-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-videokamer/"
+-
+  category: "Покраска пластика"
+  categoryId: 2
+  name: "Покраска пластиковых деталей"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 205
+  description: "Обновление и защита пластиковых деталей от износа"
+  shortDescription: "Покраска пластиковых деталей"
+  price: 300
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-plastikovyh-detaley-600x400.webp"
+  url: "https://pokraska-moskva.ru/services/pokraska-plastika/"
+-
+  category: "Покраска пластика"
+  categoryId: 2
+  name: "Покраска хромированных деталей"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 206
+  description: "Прочное покрытие хромированных элементов от царапин"
+  shortDescription: "Покраска хромированных деталей"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-hromirovannyh-detaley-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-hromirovannyh-detalej/"
+-
+  category: "Покраска пластика"
+  categoryId: 2
+  name: "Покраска светильников"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 207
+  description: "Декоративная покраска светильников под интерьер"
+  shortDescription: "Покраска светильников"
+  price: 1000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-svetilnikov-600x400.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-svetilnikov/"
+-
+  category: "Покраска сантехники"
+  categoryId: 3
+  name: "Покраска сантехники"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 301
+  description: "Обновление и защита металлической сантехники"
+  shortDescription: "Покраска сантехники"
+  price: 15000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-unitaza-600x417.webp"
+  url: "https://pokraska-moskva.ru/services/pokraska-santehniki/"
+-
+  category: "Покраска сантехники"
+  categoryId: 3
+  name: "Покраска унитаза"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 302
+  description: "Прочное и ровное покрытие унитаза под интерьер"
+  shortDescription: "Покраска унитаза"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-kryshki-unitaza-600x381.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-unitaza/"
+-
+  category: "Покраска сантехники"
+  categoryId: 3
+  name: "Покраска раковины"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 303
+  description: "Декоративная покраска раковины для стильного вида"
+  shortDescription: "Покраска раковины"
+  price: 8000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-rakoviny-600x338.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-rakoviny/"
+-
+  category: "Покраска сантехники"
+  categoryId: 3
+  name: "Покраска душевых кабин"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 304
+  description: "Влагостойкая покраска стенок душевых кабин"
+  shortDescription: "Покраска душевых кабин"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-dushevoy-kabiny-600x373.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-dushevyh-kabin/"
+-
+  category: "Покраска сантехники"
+  categoryId: 3
+  name: "Покраска петель"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 305
+  description: "Прочное покрытие дверных и мебельных петель"
+  shortDescription: "Покраска петель"
+  price: 300
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/pokraska-petel-600x450.webp"
+  url: "https://pokraska-moskva.ru/service/pokraska-petel/"
+-
+  category: "Покраска сантехники"
+  categoryId: 3
+  name: "Покраска смесителя"
+  vendor: "Центр Нанесения Покрытий"
+  offer id: 306
+  description: "Стильная и влагостойкая покраска смесителей"
+  shortDescription: "Покарска смесителей"
+  price: 5000
+  currencyId: RUB
+  picture: "https://pokraska-moskva.ru/wp-content/uploads/2025/03/img_2483-600x600.png"
+  url: "https://pokraska-moskva.ru/service/pokraska-smesitelya/"
